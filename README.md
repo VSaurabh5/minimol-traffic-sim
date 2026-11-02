@@ -8,6 +8,10 @@ An experimental agentic simulation exploring real-time autonomous vehicle contro
 ![Status](https://img.shields.io/badge/status-In--Development-yellow.svg)
 
 ---
+<img width="1902" height="886" alt="image" src="https://github.com/user-attachments/assets/2e07d064-5ad5-4519-b32c-ece00bfbe0f1" />
+<img width="1902" height="903" alt="image" src="https://github.com/user-attachments/assets/a33c4df8-a7b2-4511-9bbe-0bc38496d33c" />
+
+
 
 ## 📌 Project Overview
 
